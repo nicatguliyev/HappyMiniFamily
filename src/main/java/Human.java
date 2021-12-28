@@ -4,4 +4,5 @@ public class Human {
     public String[] schedule2;
     int age;
     public String name;
+    public String surname;
 }
